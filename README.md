@@ -27,4 +27,4 @@ The analysis is based on the following CSV files:
 
 ---
 **Reference**
-- https://codebasics.io/resources/end-to-end-data-analyst-project
+- https://codebasics.io/resources/data-analytics-project-for-beginners
